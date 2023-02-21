@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @effingfergie
-- 👀 I’m interested in technical writing and communication
-- 🌱 I’m currently learning oXygen/
-- 💞️ I’m looking to collaborate on ...open to ideas
-- 📫 How to reach me effingfergie@gmail.com
+- 👋 Hi, I’m @effingfergie.
+- 👀 I’m interested in technical writing and cybersecurity.
+- 🌱 I’m currently learning CyberSecurity, eIDAS legislation, Madcap Flare, Jira, Confluence, GitHub.
+- 💞️ I’m looking to collaborate on ...anythiong worthwhile.
+- 📫 How to reach me effingfergie@gmail.com.
 
 <!---
 effingfergie/effingfergie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
